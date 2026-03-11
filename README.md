@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1129-shortest-path-with-alternating-colors](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1129-shortest-path-with-alternating-colors) |
+## Database
+|  |
+| ------- |
+| [1193-monthly-transactions-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
