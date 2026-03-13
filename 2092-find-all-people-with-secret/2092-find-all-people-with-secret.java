@@ -1,13 +1,11 @@
 class DSU {
-
     int[] parent;
     int[] rank;
 
     DSU(int n) {
-        parent = new int[n + 1];
-        rank = new int[n + 1];
-
-        for (int i = 0; i <= n; i++) {
+        parent = new int[n];
+        rank = new int[n];
+        for (int i = 0; i < n; i++) {
             parent[i] = i;
             rank[i] = 0;
         }
@@ -24,14 +22,12 @@ class DSU {
         rank[node] = 0;
     }
     void unionNodes(int node1, int node2) {
-
         int parent1 = findParent(node1);
         int parent2 = findParent(node2);
 
         if (parent1 == parent2) {
             return;
         }
-
         if (rank[parent1] > rank[parent2]) {
             parent[parent2] = parent1;
         } 
@@ -49,11 +45,13 @@ class Solution {
 
     public List<Integer> findAllPeople(int n, int[][] meetings, int firstPerson) {
         List<Integer> ans = new ArrayList<>();
-        Arrays.sort(meetings, (a, b) -> {
-            if (a[2] == b[2]) {
-                return a[0] - b[0];
-            }
-            return a[2] - b[2];});
+        // Arrays.sort(meetings, (a, b) -> {
+        //     if (a[2] == b[2]) {
+        //         return a[0] - b[0];
+        //     }
+        //     return a[2] - b[2];});
+
+        Arrays.sort(meetings,(a,b)->a[2]-b[2]);
 
         DSU dsu = new DSU(n);
         dsu.unionNodes(0, firstPerson);
