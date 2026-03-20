@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
+| [0307-range-sum-query-mutable](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0307-range-sum-query-mutable) |
 | [1162-as-far-from-land-as-possible](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1162-as-far-from-land-as-possible) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 ## Two Pointers
@@ -89,4 +90,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0307-range-sum-query-mutable) |
+## Design
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0307-range-sum-query-mutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
