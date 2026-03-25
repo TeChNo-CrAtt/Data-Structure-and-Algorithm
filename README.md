@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1162-as-far-from-land-as-possible) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Matrix
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
 | [0647-palindromic-substrings](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1143-longest-common-subsequence) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+## Math
+|  |
+| ------- |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 <!---LeetCode Topics End-->
