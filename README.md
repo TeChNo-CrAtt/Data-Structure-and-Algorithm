@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0879-profitable-schemes](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0879-profitable-schemes) |
+| [1043-partition-array-for-maximum-sum](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1043-partition-array-for-maximum-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1162-as-far-from-land-as-possible) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0647-palindromic-substrings) |
 | [0879-profitable-schemes](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0879-profitable-schemes) |
 | [0920-number-of-music-playlists](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0920-number-of-music-playlists) |
+| [1043-partition-array-for-maximum-sum](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1162-as-far-from-land-as-possible) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
