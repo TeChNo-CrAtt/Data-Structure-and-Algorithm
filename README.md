@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2008-maximum-earnings-from-taxi) |
+| [3875-construct-uniform-parity-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0920-number-of-music-playlists](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0920-number-of-music-playlists) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [3875-construct-uniform-parity-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 ## Combinatorics
 |  |
 | ------- |
