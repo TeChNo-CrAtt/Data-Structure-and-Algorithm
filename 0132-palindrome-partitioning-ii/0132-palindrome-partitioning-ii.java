@@ -5,10 +5,10 @@ class Solution {
         dp = new int[n];
         Arrays.fill(dp, -1);
 
-        return solve(0, s) - 1;
+        return solve(0, s,dp) - 1;
     }
 
-    public int solve(int i, String s) {
+    public int solve(int i, String s , int[] dp) {
         if (i == s.length()) 
             return 0;
 
@@ -18,7 +18,7 @@ class Solution {
         int minCuts = Integer.MAX_VALUE;
         for (int j = i; j < s.length(); j++) {
             if (isPalindrome(s, i, j)) {
-                int cuts = 1 + solve(j + 1, s);
+                int cuts = 1 + solve(j + 1, s, dp);
                 minCuts = Math.min(minCuts, cuts);
             }
         }
@@ -33,3 +33,30 @@ class Solution {
     }
     
 }
+
+
+
+
+// class Solution {
+//     public int minCut(String s) {
+//         return solve(0 , s) -1;
+
+//     }
+//     public int solve(int i, String s) {
+//         if (i >= s.length()) 
+//             return 0;
+ 
+//         int ans = Integer.MAX_VALUE;
+//         StringBuilder sb = new StringBuilder();
+//         for(int j = i ; j < s.length() ; j++){
+//             sb.append(j);
+//             String reverse = sb.reverse().toString();
+//             if(sb.toString().equals(reverse)){
+//                 ans = Math.min(ans , 1 + solve(j + 1 , s));
+//             }
+//         }
+//         return ans;
+//     }
+
+// }
+
