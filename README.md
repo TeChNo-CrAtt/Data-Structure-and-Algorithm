@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
