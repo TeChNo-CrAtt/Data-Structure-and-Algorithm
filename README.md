@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
 | [0307-range-sum-query-mutable](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0403-frog-jump](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0403-frog-jump) |
 | [0879-profitable-schemes](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0879-profitable-schemes) |
 | [1043-partition-array-for-maximum-sum](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1043-partition-array-for-maximum-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1162-as-far-from-land-as-possible) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0403-frog-jump](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0403-frog-jump) |
 | [0552-student-attendance-record-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0552-student-attendance-record-ii) |
 | [0576-out-of-boundary-paths](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0576-out-of-boundary-paths) |
 | [0647-palindromic-substrings](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0647-palindromic-substrings) |
