@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2008-maximum-earnings-from-taxi) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
 | [0307-range-sum-query-mutable](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0347-top-k-frequent-elements](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0403-frog-jump) |
 | [0879-profitable-schemes](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0879-profitable-schemes) |
 | [1043-partition-array-for-maximum-sum](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1043-partition-array-for-maximum-sum) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
+| [0347-top-k-frequent-elements](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [2008-maximum-earnings-from-taxi](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2008-maximum-earnings-from-taxi) |
 ## Trie
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
 | ------- |
@@ -176,4 +180,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
