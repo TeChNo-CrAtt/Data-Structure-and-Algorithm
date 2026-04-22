@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2008-maximum-earnings-from-taxi) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1143-longest-common-subsequence) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 ## Hash Table
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Memoization
 |  |
 | ------- |
