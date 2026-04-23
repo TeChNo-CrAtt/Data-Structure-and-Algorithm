@@ -13,10 +13,11 @@ class Solution {
             return false;
         // boolean notpick=helper(i-1,arr,sum);
         // boolean pick=false;
-        if(arr[i-1]>sum)
-            return helper(arr,i-1,sum);
+        if(arr[i-1]<=sum)
+            return helper(arr,i-1,sum-arr[i-1])||helper(arr,i-1,sum);
+            
 
-        return helper(arr,i-1,sum-arr[i-1])||helper(arr,i-1,sum);
+        return helper(arr,i-1,sum);
         
     }
 }
