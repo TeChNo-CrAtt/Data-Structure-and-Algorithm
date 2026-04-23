@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1162-as-far-from-land-as-possible](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1162-as-far-from-land-as-possible) |
 | [2092-find-all-people-with-secret](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2092-find-all-people-with-secret) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0403-frog-jump) |
 | [0879-profitable-schemes](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0879-profitable-schemes) |
+| [0994-rotting-oranges](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1043-partition-array-for-maximum-sum](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1043-partition-array-for-maximum-sum) |
 | [1162-as-far-from-land-as-possible](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1162-as-far-from-land-as-possible) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1162-as-far-from-land-as-possible) |
 ## String
 |  |
