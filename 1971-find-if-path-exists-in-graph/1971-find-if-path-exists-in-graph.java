@@ -22,7 +22,8 @@ class Solution {
             return true;
         
         visited[current] = true;
-        for(int neighbor : graph.get(current)) {
+        for(int i = 0; i < graph.get(current).size(); i++) {
+            int neighbor = graph.get(current).get(i);
             if(!visited[neighbor]) {
                 if(dfs(graph, visited, neighbor, destination)) {
                     return true;
