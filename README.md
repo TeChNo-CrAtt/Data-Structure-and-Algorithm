@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0403-frog-jump) |
 | [0552-student-attendance-record-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0552-student-attendance-record-ii) |
 | [0576-out-of-boundary-paths](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0576-out-of-boundary-paths) |
+| [0583-delete-operation-for-two-strings](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0647-palindromic-substrings) |
 | [0879-profitable-schemes](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0879-profitable-schemes) |
 | [0920-number-of-music-playlists](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0920-number-of-music-playlists) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1143-longest-common-subsequence) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
