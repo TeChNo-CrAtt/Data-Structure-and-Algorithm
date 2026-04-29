@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0994-rotting-oranges](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1162-as-far-from-land-as-possible) |
 ## String
