@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0347-top-k-frequent-elements](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0518-coin-change-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0396-rotate-function](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0518-coin-change-ii) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0396-rotate-function) |
 | [0920-number-of-music-playlists](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0920-number-of-music-playlists) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
