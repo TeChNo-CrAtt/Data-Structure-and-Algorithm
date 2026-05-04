@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 ## Dynamic Programming
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
