@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1162-as-far-from-land-as-possible](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1162-as-far-from-land-as-possible) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2092-find-all-people-with-secret) |
 ## Graph Theory
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 | [2092-find-all-people-with-secret](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2092-find-all-people-with-secret) |
 ## Union-Find
@@ -265,8 +267,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
