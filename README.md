@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1162-as-far-from-land-as-possible) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1914-cyclically-rotating-a-grid](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1914-cyclically-rotating-a-grid) |
 | [2008-maximum-earnings-from-taxi](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2008-maximum-earnings-from-taxi) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0063-unique-paths-ii) |
 | [0994-rotting-oranges](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1162-as-far-from-land-as-possible) |
+| [1914-cyclically-rotating-a-grid](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1914-cyclically-rotating-a-grid) |
 ## String
 |  |
 | ------- |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [1914-cyclically-rotating-a-grid](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1914-cyclically-rotating-a-grid) |
 <!---LeetCode Topics End-->
