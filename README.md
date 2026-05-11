@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -281,4 +282,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1914-cyclically-rotating-a-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
