@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
@@ -275,11 +276,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Simulation
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
