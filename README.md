@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [2008-maximum-earnings-from-taxi](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2008-maximum-earnings-from-taxi) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Trie
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -283,4 +287,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1914-cyclically-rotating-a-grid](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1914-cyclically-rotating-a-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
