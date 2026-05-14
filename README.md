@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2008-maximum-earnings-from-taxi) |
 | [2092-find-all-people-with-secret](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2092-find-all-people-with-secret) |
+| [2784-check-if-array-is-good](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2784-check-if-array-is-good) |
 ## Array
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2553-separate-the-digits-in-an-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2784-check-if-array-is-good) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [2008-maximum-earnings-from-taxi](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2008-maximum-earnings-from-taxi) |
+| [2784-check-if-array-is-good](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2784-check-if-array-is-good) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Trie
 |  |
