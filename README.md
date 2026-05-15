@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0879-profitable-schemes](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0879-profitable-schemes) |
 | [0994-rotting-oranges](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0647-palindromic-substrings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0879-profitable-schemes](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0879-profitable-schemes) |
 | [0920-number-of-music-playlists](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0920-number-of-music-playlists) |
 | [1043-partition-array-for-maximum-sum](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1043-partition-array-for-maximum-sum) |
@@ -200,10 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Binary Search
 |  |
 | ------- |
