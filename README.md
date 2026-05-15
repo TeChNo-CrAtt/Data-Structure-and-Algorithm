@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0403-frog-jump) |
+| [0413-arithmetic-slices](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0646-maximum-length-of-pair-chain) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0396-rotate-function](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0403-frog-jump) |
+| [0413-arithmetic-slices](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0518-coin-change-ii) |
 | [0552-student-attendance-record-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0552-student-attendance-record-ii) |
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0098-validate-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->
