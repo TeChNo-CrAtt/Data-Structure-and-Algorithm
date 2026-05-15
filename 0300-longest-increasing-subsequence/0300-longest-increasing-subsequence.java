@@ -1,26 +1,29 @@
 class Solution {
+    int[] dp;
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
-        int[][] dp = new int[n+1][n+1];
+        dp =  new int[n];
+        Arrays.fill(dp , -1);
+        int res = Integer.MIN_VALUE;
 
-        for(int[] row : dp)
-            Arrays.fill(row , -1);
-        
-        return solve(nums, 0 , -1 , dp);
+        for(int i = 0 ; i < n ; i++){
+            res = Math.max(res , solve(nums , i, dp));
+        }
+        return res;
     }
-    public int solve(int[] nums , int index , int prev , int dp[][]){
+    public int solve(int[] nums , int index , int dp[] ){
         if(index == nums.length){
             return 0;
         }
-        if(dp[index][prev + 1] != -1) 
-            return dp[index][prev + 1];
+        if(dp[index] != -1) 
+            return dp[index];
 
-        int notpick = solve(nums , index + 1 , prev , dp);
-
-        int pick = 0;
-        if(prev == -1 || nums[index] > nums[prev]){
-            pick = 1 + solve(nums , index + 1 , index , dp);
+        int ans = 1;
+        for(int j = 0 ; j < index ; j ++){
+            if(nums[j] < nums[index]){
+                ans = Math.max(ans,(solve(nums,j, dp) +1));
+            }
         }
-        return dp[index][prev + 1] = Math.max(pick , notpick);
+        return dp[index] = ans;
     }
 }
