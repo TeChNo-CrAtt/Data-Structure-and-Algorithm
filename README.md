@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1049-last-stone-weight-ii) |
+| [1092-shortest-common-supersequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1162-as-far-from-land-as-possible) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0796-rotate-string) |
 | [1048-longest-string-chain](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1143-longest-common-subsequence) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2452-words-within-two-edits-of-dictionary) |
