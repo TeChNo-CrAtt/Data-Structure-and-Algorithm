@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
+| [0392-is-subsequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1048-longest-string-chain) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0392-is-subsequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0396-rotate-function) |
 | [0403-frog-jump](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0403-frog-jump) |
 | [0413-arithmetic-slices](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0413-arithmetic-slices) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
+| [0392-is-subsequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0647-palindromic-substrings) |
 | [0796-rotate-string](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0796-rotate-string) |
