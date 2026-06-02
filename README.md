@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2008-maximum-earnings-from-taxi) |
 | [2092-find-all-people-with-secret](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2092-find-all-people-with-secret) |
 | [2784-check-if-array-is-good](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2784-check-if-array-is-good) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Array
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2784-check-if-array-is-good) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1048-longest-string-chain) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2540-minimum-common-value](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2008-maximum-earnings-from-taxi](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2008-maximum-earnings-from-taxi) |
 | [2540-minimum-common-value](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
 | ------- |
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0646-maximum-length-of-pair-chain) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
 | ------- |
