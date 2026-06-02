@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0140-word-break-ii) |
