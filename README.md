@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0063-unique-paths-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0392-is-subsequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
