@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0063-unique-paths-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0063-unique-paths-ii) |
@@ -275,11 +278,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 ## Heap (Priority Queue)
 |  |
