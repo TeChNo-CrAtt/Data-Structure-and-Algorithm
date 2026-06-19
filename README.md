@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1049-last-stone-weight-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1162-as-far-from-land-as-possible) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1732-find-the-highest-altitude](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1914-cyclically-rotating-a-grid) |
 | [2008-maximum-earnings-from-taxi](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2008-maximum-earnings-from-taxi) |
@@ -366,5 +367,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
