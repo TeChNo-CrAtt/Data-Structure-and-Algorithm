@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2008-maximum-earnings-from-taxi) |
 | [2092-find-all-people-with-secret](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2092-find-all-people-with-secret) |
 | [2784-check-if-array-is-good](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Array
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2574-left-and-right-sum-differences) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2008-maximum-earnings-from-taxi) |
 | [2540-minimum-common-value](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2784-check-if-array-is-good) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Trie
 |  |
