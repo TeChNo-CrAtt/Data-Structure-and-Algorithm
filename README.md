@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TeChNo-CrAtt/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
